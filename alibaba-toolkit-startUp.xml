@@ -1,0 +1,15 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/work/myprogrammer" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/myprogrammer/commonlearn" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/myprogrammer/erp/erp_code" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/myprogrammer/multimodule" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/myprogrammer/mutilemodule" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/myprogrammer/springboot_related" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/myprogrammer/springboot_related/myspringboot_learn" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/myprogrammer/springbootlearn" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/myprogrammer/springsecurity" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/programmer/dswms_develop" startUpFlag="FIRST" />
+  </component>
+</application>
