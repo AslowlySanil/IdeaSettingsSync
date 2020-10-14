@@ -6,6 +6,8 @@
     <entry projectPath="$USER_HOME$/work/myprogrammer/erp/Eureka-Server" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/myprogrammer/erp/erp_code" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/myprogrammer/microservice/spring_microservcie/cloudDemo/eureka" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/myprogrammer/microservice/spring_microservcie/cloudDemo/feign" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/myprogrammer/microservice/spring_microservcie/cloudDemo/ribbon" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/myprogrammer/multimodule" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/myprogrammer/mutilemodule" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/myprogrammer/springboot_related" startUpFlag="FIRST" />
